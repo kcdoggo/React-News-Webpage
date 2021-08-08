@@ -1,3 +1,6 @@
+![newsWeb](https://user-images.githubusercontent.com/74845274/128623307-cb57eee0-4a08-4bb5-99ff-ecdb0d0e9330.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
